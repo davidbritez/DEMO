@@ -44,3 +44,9 @@ class impresiones:
         Salida: no hay parametros de salida
         '''
         print("el dato es: ", self.dato)
+#Aqui realizaremos las pruebas de la documentacion que estuvimos
+#realizando para la clase creada y para cada una de las funciones
+help(impresiones)
+help(impresiones.identificar_tipo)
+help(impresiones.imprimir_tipo)
+help(impresiones.imprimir)
